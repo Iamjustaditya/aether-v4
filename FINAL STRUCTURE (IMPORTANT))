@@ -1,0 +1,19 @@
+aether-v4/
+│
+├── main.py
+├── requirements.txt
+├── docker-compose.yml
+│
+├── agents/
+│   ├── orchestrator.py
+│   ├── planner.py
+│   ├── executor.py
+│
+├── simulation/
+│   ├── world.py
+│   ├── hub.py
+│   ├── npc.py
+│   ├── run.py
+│
+├── memory/
+│   ├── world_db.py
