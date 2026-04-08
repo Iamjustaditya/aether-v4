@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+faiss-cpu
+redis
+requests
+python-dotenv
